@@ -1,31 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24c09b7a-4289-44ec-b1de-c3a36b76496d" name="Changes" comment="" />
+    <list default="true" id="24c09b7a-4289-44ec-b1de-c3a36b76496d" name="Changes" comment="OOP Practice 생성">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01_object/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02_abstration/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02_abstration/MotorBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02_abstration/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03_inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03_inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03_inheritance/MotorBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex03_inheritance/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/MotorBike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/dependency/ex01_problem/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/dependency/ex01_problem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/dependency/ex02_Solution/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex04_polymorphism/dependency/ex02_Solution/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/access_modifiers/package1/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/access_modifiers/package2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/getter_setter/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/problem/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/problem/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/problem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/solution/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/solution/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex05_encapsulation/solution/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2cwMXX75oJMyHWs0aEt4yLNjnGM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/oop-workspace/oop_practice/src/ex05_encapsulation/solution"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\oop-workspace\oop_practice\src\ex05_encapsulation\solution" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex05_encapsulation.problem" />
+      <recent name="ex05_encapsulation.getter_setter" />
+      <recent name="ex04_polymorphism.dependency.ex02_Solution" />
+      <recent name="ex04_polymorphism" />
+      <recent name="ex03_inheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ex05_encapsulation.solution.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="ex05_encapsulation.problem.Main" />
       <module name="oop_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05_encapsulation.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05_encapsulation.access_modifiers.package1.Test" />
+      <module name="oop_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05_encapsulation.access_modifiers.package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05_encapsulation.access_modifiers.package2.Test2" />
+      <module name="oop_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05_encapsulation.access_modifiers.package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex04_polymorphism.dependency.ex02_Solution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex04_polymorphism.dependency.ex02_Solution.Main" />
+      <module name="oop_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex04_polymorphism.dependency.ex02_Solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex05_encapsulation.solution.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05_encapsulation.solution.Main" />
+      <module name="oop_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex05_encapsulation.solution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex05_encapsulation.solution.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ex04_polymorphism.dependency.ex02_Solution.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24c09b7a-4289-44ec-b1de-c3a36b76496d" name="Changes" comment="" />
+      <created>1709018231846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709018231846</updated>
+      <workItem from="1709018233097" duration="8449000" />
+    </task>
+    <task id="LOCAL-00001" summary="OOP Practice 생성">
+      <created>1709018497270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709018497270</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OOP Practice 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP Practice 생성" />
   </component>
 </project>
